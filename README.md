@@ -1,4 +1,4 @@
-![Certified Kubernetes Administrators Course](https://res.cloudinary.com/cloudusthad/image/upload/v1556858993/course-image.png)
+
 
 This repository holds the supporting material for the [Certified Kubernetes Administrators Course](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests). There are two major sections. 
 
